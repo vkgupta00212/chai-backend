@@ -12,5 +12,8 @@
     "chaiorcode"
   ],
   "author": "vishal gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
